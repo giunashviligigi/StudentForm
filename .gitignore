@@ -1,0 +1,24 @@
+*.iml
+.gradle/
+.kotlin/
+local.properties
+/build/
+/app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.ap_
+*.dex
+
+### IntelliJ IDEA ###
+.idea/
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
